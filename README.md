@@ -1,4 +1,4 @@
-# BATrucks MOD - Version 1.0
+# BATruckers MOD - Version 1.0
 
 Welcome to the BATrucks MOD for BATrucks Convoy! Join the immersive trucking experience with our carefully curated collection of mods designed to enhance your gameplay. This mod pack is proudly hosted by [batcore.eu](https://batcore.eu), ensuring a smooth and enjoyable experience for all trucking enthusiasts. Below is a list of the mods included in the BATrucks MOD and a guide on how to install and connect to the server.
 
